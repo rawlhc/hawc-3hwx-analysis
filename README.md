@@ -21,5 +21,10 @@ matplotlib,
 pyyaml,
 pandas.
 
+## Resultados principales
+
+![Grafia de estrellas](figures/grafica_estrellas.png)
+!(Histograma TS](figures/histograma_TS.png)
+
 ## Autor
 Raúl - Facultad de Ciencias,UNAM.
