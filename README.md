@@ -15,8 +15,8 @@ El catálogo contiene 65 fuentes de rayos gamma detectadas en 1523 días de obse
 -Estadística descriptiva del catálogo de TS: fuente mas significativa, TS promedio y distribución de fuentes por significancia
 
 # Requisitos
-Python>=3.10
-numpy
-matplotlib
-pyyaml
-pandas
+Python>=3.10,
+numpy,
+matplotlib,
+pyyaml,
+pandas.
