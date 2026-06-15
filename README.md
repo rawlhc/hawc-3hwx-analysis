@@ -22,4 +22,4 @@ pyyaml,
 pandas.
 
 ## Autor
-Raúl - Facultad de Ciencias,unam
+Raúl - Facultad de Ciencias,UNAM.
