@@ -20,3 +20,6 @@ numpy,
 matplotlib,
 pyyaml,
 pandas.
+
+## Autor
+Raúl - Facultad de Ciencias,unam
